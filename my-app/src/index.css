@@ -1,0 +1,26 @@
+:root {
+  --main-white: #f3f3f3;
+  --main-black: #222;
+  --main-blue: #0071bc;
+  --main-red: #ce1126;
+  --main-yellow: #fdb913;
+  --main-green: #78be20;
+  --main-gray: #888;
+  --light-gray: #bbb;
+  --off-white: #eee;
+  --main-font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --main-padding: 20px;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
