@@ -48,6 +48,9 @@ const styles = {
     justifyContent: 'center',
     marginTop: '20px',
     with: '50%',
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
   },
   user: {
     textAlign: 'center',  

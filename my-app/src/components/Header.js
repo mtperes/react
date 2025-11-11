@@ -18,7 +18,7 @@ const styles = {
     header: {
         backgroundColor: '#282c34',
         padding: '20px',
-        textAlign: 'center',
+   
     },
     title: {
         color: 'white',
